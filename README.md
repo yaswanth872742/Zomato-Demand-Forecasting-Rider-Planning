@@ -9,6 +9,11 @@ system** that converts historical food-delivery demand into
 > actionable operational decision.**
 
 ------------------------------------------------------------------------
+## 🚀 Live Demo
+
+**Try the deployed Streamlit dashboard:** [Zomato Demand Forecasting & Rider Planning](https://zomato-demand-forecasting-rider-planning.streamlit.app/)
+
+The dashboard lets users select a city and locality, generate demand forecasts, and explore rider allocation recommendations based on historical operational data.
 
 ## 🚀 Project Overview
 
