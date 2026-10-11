@@ -8,7 +8,7 @@ import pandas as pd
 # FILES + CASE-STUDY RULES
 # ------------------------------------------------------------
 BASE_DIR = Path(__file__).resolve().parent
-DATA_FILE = BASE_DIR / "Datasets" / "DATA1_Cleaned.xlsx"
+DATA_FILE = BASE_DIR / "datasets" / "DATA1_Cleaned.xlsx"
 MODEL_FILE = BASE_DIR / "forecast_model.pkl"
 
 MIN_RECORDS = 30
